@@ -15,7 +15,7 @@ This [repository](https://github.com/rishab-pdx/Neural-Style-Transfer) contains 
 ### Implementation
 
 - Programming Languages: Python 3
-- Libraries: Numpy,Opencv,Matplotlib
+- Libraries: Numpy,OpenCV,Matplotlib
 - Deep Learning Framework: PyTorch
 
 ### References
